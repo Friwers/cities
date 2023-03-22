@@ -1,0 +1,17 @@
+2023-03-18 16:23:43,894 INFO root start func log
+2023-03-18 16:23:43,894 WARNING root 0
+2023-03-18 16:23:43,894 WARNING root 1
+2023-03-18 16:23:43,894 WARNING root 2
+2023-03-18 16:23:43,894 WARNING root 3
+2023-03-18 16:23:43,894 WARNING root 4
+2023-03-18 16:23:43,894 WARNING root 5
+2023-03-18 16:23:43,894 WARNING root 6
+2023-03-18 16:23:43,894 WARNING root 7
+2023-03-18 16:23:43,894 WARNING root 8
+2023-03-18 16:23:43,894 WARNING root 9
+2023-03-18 16:23:43,894 INFO root end func log
+2023-03-18 16:24:02,218 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): yandex.ru:443
+2023-03-18 16:24:02,509 DEBUG urllib3.connectionpool https://yandex.ru:443 "GET / HTTP/1.1" 302 None
+2023-03-18 16:24:02,529 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): dzen.ru:443
+2023-03-18 16:24:02,678 DEBUG urllib3.connectionpool https://dzen.ru:443 "GET /?yredirect=true HTTP/1.1" 302 0
+2023-03-18 16:24:02,694 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): sso.passport.yandex.ru:443
